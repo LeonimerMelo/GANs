@@ -62,4 +62,3 @@ O treinamento continua até que o gerador produza dados que o discriminador não
 2. **Instabilidade no Treinamento**: A natureza adversarial pode levar a treinamento instável ou divergência.  
 3. **Métricas de Avaliação**: Quantificar a qualidade dos dados gerados pode ser desafiador.
 
-Gostaria de explorar algum aspecto específico das GANs?
